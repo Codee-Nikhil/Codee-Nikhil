@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuldeep-gitt.kuldeep-gitt" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Codee-Nikhil.Codee-Nikhil" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+kuldeep+yadav!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil+tiwari!;" />
 </h1>
 
-<h3 align="center">A passionate cyber security from India </h3>
+<h3 align="center">"I'm passionate about web development </h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning ** Security Analyst., Governance, Risk, and Compliance (GRC), bug bounty , AWS**
+ 🌱 I’m currently learning ** Frontend Frameworks, Responsive Design, Version Control , Databases, UI/UX Basics, Testing and Debugging, MEAN/MERN Stack, RESTful APIs  **
 
-💬 Ask me about **c++, python, html, bootstrap, sql, css, javascript... or anything [here](https://github.com/kuldeep-gitt/kuldeep-gitt/issues)**
+💬 Ask me about **c++, python, html, bootstrap, sql, css, javascript... or anything [here](https://github.com//Codee-Nikhil/Codee-Nikhil/issues)**
 
 
  </div>
